@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://QuietUtilityCo.github.io/QuietUtilityCo/sitemap.xml
